@@ -9,3 +9,4 @@ __pycache__/
 !.env.example
 data/raw/
 .DS_Store
+scripts/data/
